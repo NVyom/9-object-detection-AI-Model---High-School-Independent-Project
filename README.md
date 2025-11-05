@@ -1,6 +1,10 @@
 #Object-detection-AI-Model---High-School-Independent-Project
 Created a simple AI model to detect 9 food items, then implemented it on Raspberry Pi 5.
 
+# Datasets Used
+https://www.kaggle.com/datasets/raghavrpotdar/fresh-and-stale-images-of-fruits-and-vegetables
+https://www.kaggle.com/datasets/anthonytherrien/image-classification-32-classes-food
+
 # Project Overview
 This project explores computer vision using a custom-trained CNN (Convolutional Neural Network) with data compiled from multiple open datasets.
 The model detects 9 food items: apples, bananas, oranges, carrots, capsicum, rice, bitter gourd, broccoli, and tomatoes.
