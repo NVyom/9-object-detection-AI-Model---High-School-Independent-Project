@@ -22,4 +22,9 @@ I originally intended to develop a text detection system, but faced too many cha
 So I stuck with object detection, allowing me to refine my data handling and model design and training.
 During training, my model accuracy plateaued due to a data leak, which I had trouble identifying. I resolved it after days of debugging, and in turn it deepened my understanding of data preprocessing and model validation.
 
+# Uploaded Files
+fruits.ipynb  -  My data pre-processing and AI model training file. I trained the model on my PC.
+
+fruitdetect-Copy1.ipynb  -  My inference file, containing the code where I ran the AI model on my Raspberry Pi 5.
+
 This experience strengthened my technical rigor, and I hope to hone these skills further to implement in future research projects.
