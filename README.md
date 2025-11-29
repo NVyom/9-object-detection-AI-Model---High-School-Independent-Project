@@ -35,6 +35,6 @@ Nikhil's AI Project - Object Detection Examples.pdf - These are a few examples o
 
 AI Project Science Fair Trifold.jpg - This is the trifold I prepared for the science fair I participated in (SANES).
 
-AI Project Raspberry Pi 5.jpg - This is the Raspberry Pi 5 I implemented my model on. Its camera and its case (for cooling and portability) are also included.
+AI Project - Raspberry Pi 5.jpg - This is the Raspberry Pi 5 I implemented my model on. Its camera and its case (for cooling and portability) are also included.
 
 This experience strengthened my technical rigor, and I hope to hone these skills further to implement in future research projects.
