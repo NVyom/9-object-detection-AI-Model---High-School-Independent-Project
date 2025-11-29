@@ -31,4 +31,6 @@ fruits.ipynb  -  My data pre-processing and AI model training file. I trained th
 
 fruitdetect-Copy1.ipynb  -  My inference file, containing the code where I ran the AI model on my Raspberry Pi 5.
 
+Nikhil's AI Project - Object Detection Examples.pdf - These are a few examples of accurate object detection done by my final model.
+
 This experience strengthened my technical rigor, and I hope to hone these skills further to implement in future research projects.
